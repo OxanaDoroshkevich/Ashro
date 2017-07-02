@@ -14,11 +14,11 @@ User die Spargelfelder auswählen kann, die vom Roboter als nächstes angefahren
 2. Unity
 
 ### Prerequisites
-	64 bit Windows 10 Education, Enterprise oder Pro für die Hyper-V Unterstützung
-	64-bit CPU
-	4-Kerne-CPU
-	mind. 8 GB RAM
-	GPU (DirectX 11.0 or later)
+- 64 bit Windows 10 Education, Enterprise oder Pro für die Hyper-V Unterstützung
+- 64-bit CPU
+- 4-Kerne-CPU
+- mind. 8 GB RAM
+- GPU (DirectX 11.0 or later)
 
 ### Installing
 
@@ -67,9 +67,9 @@ private void ApplySteer() {
 
 ## Built With
 
-https://www.microsoft.com/de-de/hololens
-https://unity3d.com/de/learn/tutorials/topics/virtual-reality/user-interfaces-vr
-https://www.visualstudio.com/de/downloads/
+1. https://www.microsoft.com/de-de/hololens
+2. https://unity3d.com/de/learn/tutorials/topics/virtual-reality/user-interfaces-vr
+3. https://www.visualstudio.com/de/downloads/
 
 ## Versioning
 
@@ -80,6 +80,7 @@ Version 0.0.1
 * **Vincent Weiss** - *Initial work* - [Vincent Weiss](https://github.com/VincWeiss)
 * **Oxana Doroshkevich** - *Design work* - [Oxana Doroshkevich](https://github.com/OxanaDoroshkevich)
 * **Selina Magnin** - *Project Manager* - [Selina Magnin](https://github.com/SelToTheIna)
+* **Marco Himmelstein** - *Developer* - [Marco Himmelstein](https://github.com/himmelst94)
 
 ## License
 
