@@ -57,10 +57,10 @@ private void ApplySteer() {
             wheelFL.steerAngle = newSteer;
             wheelFR.steerAngle = newSteer;
         } else {
-        Vector3 relativeVector = transform.InverseTransformPoint(nodes[currectNode].position);
-        float newSteer = (relativeVector.x / relativeVector.magnitude) * maxSteerAngle;
-        wheelFL.steerAngle = newSteer;
-        wheelFR.steerAngle = newSteer;
+            Vector3 relativeVector = transform.InverseTransformPoint(nodes[currectNode].position);
+            float newSteer = (relativeVector.x / relativeVector.magnitude) * maxSteerAngle;
+            wheelFL.steerAngle = newSteer;
+            wheelFR.steerAngle = newSteer;
         }
     }
 ```
