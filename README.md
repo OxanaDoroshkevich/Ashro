@@ -81,6 +81,7 @@ Version 0.0.1
 * **Oxana Doroshkevich** - *Design work* - [Oxana Doroshkevich](https://github.com/OxanaDoroshkevich)
 * **Selina Magnin** - *Project Manager* - [Selina Magnin](https://github.com/SelToTheIna)
 * **Marco Himmelstein** - *Developer* - [Marco Himmelstein](https://github.com/himmelst94)
+* **Frederick Wurfer** - *Developer* - [Frederick Wurfer](https://github.com/FreddyWurfer)
 
 ## License
 
