@@ -1,6 +1,6 @@
-### ASHRO
+# ## ASHRO
 
-## A project using the Spotify web API and the Spotify android SDK
+## A project using the MS Hololens and Unity
 Ziel des Spiels ist es die laufenden Kosten, die durch den Betrieb des Spargel-Ernte-Roboters entstehen, 
 mit dem Spargelverkauf zu decken. Der Spieler soll so schnell und so viele Spargel wie möglich zum Lager bringen, 
 damit diese dann verkauft werden können. Die Steuerung funktioniert dabei über die HoloLens-Gesten, mit welchen der 
