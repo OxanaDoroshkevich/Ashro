@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Cooperation with the university of Reutlinegn and UID
+* Inspiration: UID (User Interface Design GmbH) http://www.uid.com/
+* Working with Jannik Lassahn **Jannik Lassahn** - *Developer* - [Jannik Lassahn](https://github.com/JannikLassahn)
