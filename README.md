@@ -1,4 +1,4 @@
-# ## ASHRO
+# ASHRO
 
 ## A project using the MS Hololens and Unity
 Ziel des Spiels ist es die laufenden Kosten, die durch den Betrieb des Spargel-Ernte-Roboters entstehen, 
@@ -6,14 +6,14 @@ mit dem Spargelverkauf zu decken. Der Spieler soll so schnell und so viele Sparg
 damit diese dann verkauft werden können. Die Steuerung funktioniert dabei über die HoloLens-Gesten, mit welchen der 
 User die Spargelfelder auswählen kann, die vom Roboter als nächstes angefahren werden sollen.
 
-## Developing Vincent Weiss, Oxana Doroshkevich, Marco Himmelstein, Selina Magnin, Frederick Wurfer
+### Developing Vincent Weiss, Oxana Doroshkevich, Marco Himmelstein, Selina Magnin, Frederick Wurfer
 
-### Tools
+## Tools
 
 1. Visual Studio 2015 mit Update 3
 2. Unity
 
-### Prerequisites
+## Prerequisites
 - 64 bit Windows 10 Education, Enterprise oder Pro für die Hyper-V Unterstützung
 - 64-bit CPU
 - 4-Kerne-CPU
@@ -65,7 +65,7 @@ private void ApplySteer() {
     }
 ```
 
-## Built With
+### Built With
 
 1. https://www.microsoft.com/de-de/hololens
 2. https://unity3d.com/de/learn/tutorials/topics/virtual-reality/user-interfaces-vr
